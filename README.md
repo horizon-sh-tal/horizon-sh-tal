@@ -1,10 +1,10 @@
-![logo](https://github.com/GulabJamunAI/GulabJamunAI/blob/main/github-header-image.png)
+![logo](https://github.com/GulabJamunAI/voyagerX47/blob/main/github-header-image.png)
 <h1 align="center">Hey there! I'm Kshitij Mishra</h1>
 <h3 align="center">A highly dedicated college student.</h3>
 
 <img align="right" alt="wish granter" width="400" src="https://cdn.codm.gg/assets/cosmetics/cosmetics_anim_14703.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gulabjamunai&label=Profile%20views&color=0e75b6&style=flat" alt="gulabjamunai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gulabjamunai&label=Profile%20views&color=0e75b6&style=flat" alt="voyagerX47" /> </p>
 
 - 🌱 I’m currently learning **Python, DS, Linux OS, Ethical Hacking.**
 
