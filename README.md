@@ -4,7 +4,7 @@
 
 <img align="right" alt="wish granter" width="400" src="https://cdn.codm.gg/assets/cosmetics/cosmetics_anim_14703.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=voyagerx47&label=Profile%20views&color=0e75b6&style=flat" alt="voyagerX47" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?voyagerX47=voyagerX47)" alt="voyagerX47" /> </p>
 
 - 🌱 I’m currently learning **Python, DS, Linux OS, Ethical Hacking.**
 
