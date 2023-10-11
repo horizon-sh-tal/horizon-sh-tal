@@ -1,4 +1,4 @@
-![logo](https://github.com/GulabJamunAI/voyagerX47/blob/main/github-header-image.png)
+![logo](https://github.com/voyagerX47/blob/main/github-header-image.png)
 <h1 align="center">Hey there! I'm Kshitij Mishra</h1>
 <h3 align="center">A highly dedicated college student.</h3>
 
