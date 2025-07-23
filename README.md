@@ -4,8 +4,8 @@
 horizon@localhost:~$ whoami
 horizon
 
-horizon@localhost:~$ echo "Employee @C3iHub, IIT Kanpur"
-Employee @C3iHub, IIT Kanpur
+horizon@localhost:~$ echo "@C3iHub, IIT Kanpur"
+@C3iHub, IIT Kanpur
 
 horizon@localhost:~$ echo "Current Focus: Deception Technology & DFIR"
 Current Focus: Deception Technology & DFIR
