@@ -7,13 +7,12 @@ horizon
 horizon@localhost:~$ echo "@C3iHub, IIT Kanpur"
 @C3iHub, IIT Kanpur
 
-horizon@localhost:~$ echo "Current Focus: Deception Technology & DFIR"
-Current Focus: Deception Technology & DFIR
+horizon@localhost:~$ echo "Current Role: Associate- Deception Tech, DFIR"
+Current Role: Associate- Deception Tech, DFIR
 
 horizon@localhost:~$ cat about_me.txt
 Working in the field of deception technology and DFIR
-Exploring malware analysis and adversary behavior
-Learning system-level security and digital forensics
+Learning system-level security, digital forensics, Honeypots, Honeytokens and Honeynets
 
 horizon@localhost:~$ cat contact.txt
 Email    : kshitijmishra220304@gmail.com
@@ -21,7 +20,7 @@ LinkedIn : https://www.linkedin.com/in/horizonsturmovik/
 GitHub   : https://github.com/horizon-sh-tal
 
 horizon@localhost:~$ uptime
-Active since: 2020
+Active since: 2021
 
 [✔] Initializing deception layer ............ done
 [✔] Building traps and decoys ............... done
